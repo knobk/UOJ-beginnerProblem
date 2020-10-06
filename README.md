@@ -1,2 +1,2 @@
 URI ONLINE JUDGE 
-Problem Solution In C
+Beginner Problem Solution In C
